@@ -1,0 +1,4829 @@
+fileFormatVersion: 2
+guid: ea563375a44214f4fba970ea8eaa7bcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FredorakaUI-184_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3847
+        width: 194
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352093ba9249b643ab671bf60515100
+      internalID: -1645020522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3508
+        width: 751
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d146cead99d3741806daa7a99aa06f
+      internalID: -44848501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 3617
+        width: 488
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502b96e77d017f4c9b25e6d186d1aa4
+      internalID: 701717356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_14
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 3616
+        width: 106
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab92017c2685e1e4f930819d1a6e4118
+      internalID: -1367322078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_15
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 3487
+        width: 674
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c16cbef9aeb1408625e8d1ce5eb40
+      internalID: -676598820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_16
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3733
+        width: 516
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b321ebb212b54daa2973a832e32b7
+      internalID: 434706208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_17
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3727
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe5cd3aba19864db42b5c4ff4baa1b
+      internalID: 1139866634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_18
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 3741
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b389a8e6e33343418a09f1581bb9752
+      internalID: 618496099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_19
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3737
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cbc965d92a44b4b902e57bcc3c496d
+      internalID: -7512783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_20
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3727
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120cde77f54b20458e049c3f099c16d
+      internalID: -1726216928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_21
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 3741
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77428f45858ce5042ab71d63db2c9f74
+      internalID: 1503552940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_22
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 3737
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b04cfd79faec74a8ec3a0ed6a05f6c
+      internalID: 1475761682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_23
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 3727
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a17f65e9211e947800fd4197c7953b
+      internalID: 1027884322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_24
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 3741
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cb3c715cad75d4bad236d7e0460604
+      internalID: -525077635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_25
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 3737
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94645f920b557ae4fad523fd6a82142c
+      internalID: -110226768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_26
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3464
+        width: 180
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4217cdb2f21134c93666806a889231
+      internalID: 80252360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_27
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 3717
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca880ff6dda89d4ca5c2a6693b74b9e
+      internalID: 1244610099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_28
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 3464
+        width: 182
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847911e70816b8c4a9b068e73c02b32c
+      internalID: -632700759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_29
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 3717
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178dfb9e4a25ce459d9b238cf47be00
+      internalID: 569377457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_30
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3469
+        width: 178
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4378d5cb2bb2cfa4d80f30c6188efc96
+      internalID: 1179968886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_31
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 3717
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f5bf095e843d24390347e9fe666feb
+      internalID: 57576325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_32
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3647
+        width: 516
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef8d2a20b428849a0b8d7374ab5a34
+      internalID: -849515073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_39
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 3513
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284938d441f62b4d926c43e927fb2f4
+      internalID: -1485517122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_45
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3563
+        width: 518
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280efa63b2e812945b4c2da3b61e67c8
+      internalID: -1287255485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_46
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 3217
+        width: 264
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e729ee4e07caa5c4db2b40ccbd88ad6b
+      internalID: 140115228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_47
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3170
+        width: 264
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63aae6da075ee47a2c516d857e9259
+      internalID: -1644126735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_48
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3479
+        width: 516
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a7344dfbd0054fa26bca29302870d
+      internalID: -645632072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_51
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 3320
+        width: 731
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56463631f7f36e54e9beff40c5ac3b3e
+      internalID: 369276068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_52
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 3323
+        width: 732
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c3b2ddc07eb847b2ddbfff45e56fa
+      internalID: -1561209067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_53
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3355
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2decab5cd01df1d4fac3273a476c5af1
+      internalID: -1848558544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_54
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 3369
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4b700ff6ea334d849fd881aeb0a8f
+      internalID: 2803954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_55
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 3365
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c9c2331d9b314386b02339a7da8e2
+      internalID: 2121920283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_56
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 3291
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec478a981146c4a4baf7d8cada7db930
+      internalID: -796635523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_59
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2997
+        width: 210
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a30e54ebbf5164da30f2e6f728e4d1
+      internalID: -404943099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_60
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3137
+        width: 170
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459be18aad2f08645982139eb2823e36
+      internalID: 595792348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_61
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 3211
+        width: 732
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e209f3f63dc341b7d47570ef4e8bd
+      internalID: -498211739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_62
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 3211
+        width: 732
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9809bf8c140946bdf1ac12b1e7bbb
+      internalID: -1565791847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_63
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 3085
+        width: 190
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710d5860f8f83624cb9390b992e36280
+      internalID: 1086844257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_64
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 3085
+        width: 193
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562a4b9590806a49938ed52df31183a
+      internalID: -361839543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_65
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 3079
+        width: 176
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc629105f1a29184a8973435e6a37cab
+      internalID: -1222044313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_66
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2981
+        width: 211
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40a545942d0484bb6197c91ac8c9d0
+      internalID: 78664012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_67
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3013
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e349a4fcb881c42b277888bc847e0e
+      internalID: -1737650448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_68
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3013
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b023fe93b4ec418e610953fbcfd25
+      internalID: 1834992582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_69
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 3013
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13222cb9f886574a979149d9d8e7bab
+      internalID: 1941478923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_70
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 3011
+        width: 162
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c45adff7e38740bb5a8c5ea9d7fb0
+      internalID: 1107364851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_71
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3013
+        width: 160
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdb6dde1273c04aa474de95aafb548
+      internalID: -609822993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_72
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 3013
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5940b271c0f049b795a5e9140a49f
+      internalID: -1445343913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_73
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 3008
+        width: 154
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0832daa15f984cb9c366ae4789b5c
+      internalID: 156065423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_74
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 3015
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7903c6327501f34eaf7557ef568049b
+      internalID: -55825000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_75
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 3015
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86feae1f0edf842b2a33e3b9ecbf89
+      internalID: -1745371342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_76
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 3013
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f60f30eccd63c4d9646324882c9ef0
+      internalID: 1444056952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_77
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 3015
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4d42291b80584aaaeb830cd36f932
+      internalID: 1870289944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_78
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 3013
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d298773523ca459ecedf13b1176dc
+      internalID: 1989393662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_79
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2955
+        width: 504
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda527d2bb1b964686464bcb4437283
+      internalID: -1918960927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_82
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2787
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450ee15967640a4b86fd4983cdec539
+      internalID: 81464059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_83
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2787
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd44da9a1c09cd43bf7d807542f00cc
+      internalID: 1417542932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_84
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2883
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6dcfb5b7a1904f829d253f6f3c6b2
+      internalID: 276856930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_85
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2883
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee4094a0aec264893e5e39585ce9f7
+      internalID: -1696878711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_86
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 2880
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0b3d1c6725e945a64ba361bc1d5db
+      internalID: -24540455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_87
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2883
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade374b61c34ac43b6a27d425d8fd11
+      internalID: -1719469297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_88
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 2883
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b556a520278054a8705ee6f956ac46
+      internalID: -1750254745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_89
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 2883
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7cfc9fbbbd8f441a2933b04b992180
+      internalID: 152551904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_90
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2885
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb648101c4f70840a5fc676058a24b5
+      internalID: -180419175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_91
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2880
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcca3b420efa1b4792a9a5da7504279
+      internalID: -2110695521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_92
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2915
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6f9f4e6172fa408d734c09782b425
+      internalID: 1460239867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_93
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 2883
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c535e13e93234d920d867c2c4d6d7
+      internalID: 602413686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_94
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 2835
+        width: 518
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef522b179b0d9964b903bd91d20a45ca
+      internalID: -1173010683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_97
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2773
+        width: 38
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15824fb10cf52e64b96532f4c4e0b1c6
+      internalID: -2015145610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_98
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 2769
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b5bf619737aa46966751d14e628a7
+      internalID: 787890209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_99
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 2768
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb9a383c01f1b4695f4d81e6e212a0
+      internalID: 1385055837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_100
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2775
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f5a9090468ed448a7ee1dd07cd237
+      internalID: 43058224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_101
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2717
+        width: 170
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ccf91e1d31aa248a9c17e23cfa5209
+      internalID: 297261043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_102
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2728
+        width: 504
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb839888e7bb24baa55daa4c9e5b87
+      internalID: -1349463545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_105
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2541
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d9b330ff7f80c46ae2b1e9ac470e44
+      internalID: -1335524973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_106
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2541
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b54d3d1fc11ff646a555fe43454361f
+      internalID: 1925549311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_107
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2599
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613b9abd321d05409732e99d7ef4649
+      internalID: 235398587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_108
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2599
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90094362ad1976246a3112ed1d4e43af
+      internalID: 1844302544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_109
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2599
+        width: 143
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6dc176612faa479fc36130c569e44
+      internalID: -1141536687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_110
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 2599
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e1c9a27473ad488ec0c5af6427ea9
+      internalID: 838576663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_111
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2599
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef088d2537d576428fd50c0c5a7e537
+      internalID: 1133127790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_112
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2599
+        width: 108
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec895852aa6cb44a9d8442d1b8aafac
+      internalID: -1430525272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_113
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2599
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828a75d2e28df94cb677b1b6375d56c
+      internalID: -336904176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_114
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2599
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2957b0104f65549ba15f17f503556f
+      internalID: -2127890726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_119
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2335
+        width: 349
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d543b604948a4fbd2c9776e99c459
+      internalID: -1978081092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_120
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2335
+        width: 350
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d6fdba05303d49a334a078dee38fd
+      internalID: 1886061632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_121
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2323
+        width: 372
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422dc84821e32d4f89ba41a4b13b454
+      internalID: -1092564689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_122
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2319
+        width: 357
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3d6ca3bc35e74287ddb2df7cf843e
+      internalID: 1963833147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_123
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2429
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf6415b2eb2a14484afe5cdbab1191
+      internalID: 1071720479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_124
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2429
+        width: 142
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb6675d050d204bbcb56697316c51d
+      internalID: -1209106700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_126
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2429
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20432de99f88f4ba007acde70ba92f
+      internalID: 437439376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_127
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2427
+        width: 128
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d944ee58685b264f99ce4fcd9b0f10a
+      internalID: -1470126266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_128
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2419
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba677a546fb114fa69e6567b311066
+      internalID: -111296409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_133
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2097
+        width: 38
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25300d9b9fb9f4eab8df5bd7c6351b
+      internalID: -1946497084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_148
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1977
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04634d6302790ce4bbc7c1f51295c019
+      internalID: -1178060226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3863
+        width: 196
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f0a3ada91d8a49b995b92b5879b99
+      internalID: 839306809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3800
+        width: 518
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bd5280029e7e848b037270b2055356
+      internalID: -839818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 3800
+        width: 518
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae9e776d1b6e649af70223f01a9593
+      internalID: 235375005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_4
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3800
+        width: 518
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9aa0a6944a304eb6d62819bc821f6
+      internalID: -457682523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_5
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 3800
+        width: 518
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c8bde68682964c9a3393ca77b142c
+      internalID: 399291681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_6
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 3800
+        width: 518
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7dc2fd8e5fdd4281681043e695736
+      internalID: 989499872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_7
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3805
+        width: 181
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba42e4486407a04b846a050f78bc32a
+      internalID: 30964922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_8
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 3805
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc1733310ee8f46b6e1066e24d5b2a
+      internalID: -672124776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_9
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3800
+        width: 178
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae6c2b78ca9564caaf9fd678a6e2b3
+      internalID: -1449733414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3639
+        width: 195
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a978c499f6ae418dec457a4d9c1bb
+      internalID: 584010118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3647
+        width: 196
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c906e332fdc387468e833cf3d5dc91f
+      internalID: -1694315366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_36
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 3513
+        width: 244
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4194f4d9617f43c4cb847a28dc5a46a0
+      internalID: 365418175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_37
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 3515
+        width: 200
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842c60c220c04944bc293f35c4fc292
+      internalID: 1341238669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_38
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3515
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f545e4bea297014da041e159b957381
+      internalID: -1514746055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3248
+        width: 650
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c044d2d8a2240c429538f4047ebb528
+      internalID: -1907822586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_50
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3249
+        width: 650
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db3fcde1ae4784e87f9c5daf3c3ce5
+      internalID: 325419899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3053
+        width: 525
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6d0e847b76914abf2be127073dd47
+      internalID: 478662630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_58
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3053
+        width: 526
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e19aa4997de1d44ae1bac8aac12115
+      internalID: 518926726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2841
+        width: 520
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec28fd205cd7de4ba2f9b4c5908d409
+      internalID: -1936920264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_81
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2839
+        width: 518
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14bbe8ba649d474198aad08fe763361
+      internalID: -523909659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2631
+        width: 519
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa679907c1dad40a29b44da234c1df
+      internalID: -347571359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_96
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2631
+        width: 518
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf674afdb817f4d9013f16cb61bf38
+      internalID: -1183802540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2491
+        width: 384
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2f12fdeff0d54a86a44975a9813ad
+      internalID: 2034112469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_104
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2491
+        width: 382
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3cda44c571a448b5320eea8999a46
+      internalID: 673691406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_115
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2599
+        width: 132
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0ce234ec941b4694bb68b50127152
+      internalID: 1586817551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_116
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2597
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31c59970e434448b8aef3e0558786a
+      internalID: -1534514661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_117
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 2499
+        width: 372
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673631fbb17abb4da9e56dcec630e81
+      internalID: 1842391706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_118
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 2515
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0782c75693a07c409981997ad092c6c
+      internalID: 1295157062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_125
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1895
+        width: 522
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512c4b6780614c4dac1f6479afd9a82
+      internalID: -821894359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_129
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 2281
+        width: 158
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e44e1ece65ffc4fa6bc8ba0508d3d6
+      internalID: -157053468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_130
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 2283
+        width: 156
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d46f5356845d49983d1cdd3f339b9
+      internalID: -627084712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_131
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 2409
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7723b25a1cdb43b1cb7c2869bf717
+      internalID: 107812181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_132
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2111
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315558bceefb7dd4eb1373a6ee86dfb4
+      internalID: -1297252331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_134
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1888
+        width: 528
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea442d9e270854ba919892e38c245d
+      internalID: 2083882200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_135
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2293
+        width: 84
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c4b56adc3815448135f9fb3b176e4
+      internalID: 818207153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_136
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2295
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55c7db103dc5147ab326891b1975f0
+      internalID: 1486864184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_137
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 2299
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb059ff6463c914d8ecbcc1908ce629
+      internalID: -380850792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2043
+        width: 650
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a196e29f3c509a4d9cc9d1f92c40ebb
+      internalID: 1616090022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_139
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2043
+        width: 650
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280775044128b47408dfd33e8944d907
+      internalID: -162648671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_140
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2117
+        width: 385
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1685a4db9398c647981daced4090575
+      internalID: 1740280025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_141
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 2039
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa8f771ae79e244f86c01a7d1addbe8
+      internalID: -25042725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_142
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2039
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf334d36a98962428ed53e666b22cde
+      internalID: -1500665481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_143
+      rect:
+        serializedVersion: 2
+        x: 3941
+        y: 2131
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4aaba03830a2f41aa7346f5275fab1
+      internalID: -232209346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_144
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1847
+        width: 525
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863108aba781604bb5cd0d80cade780
+      internalID: -1594794890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_145
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1847
+        width: 526
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c860be951a507429ebe13280a28572
+      internalID: 2109822483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_146
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1907
+        width: 385
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c9293165fab264ab7c90055c59101d
+      internalID: 1909995951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_147
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1885
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62fcdc3ae4429e4ca693a47e6376f45
+      internalID: -1520190219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_149
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 1729
+        width: 518
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8621e451165224e98efc89e4e7ff0a
+      internalID: -1450448096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_150
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1637
+        width: 518
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67893f88d5c5f4e488ec020a980f6b0b
+      internalID: 78143926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_151
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1637
+        width: 518
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8edc9dcbf9116418399a5f47ed2edf
+      internalID: -517056592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_152
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1651
+        width: 518
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc5b22e2b2c574a873a9c47f4f6947
+      internalID: 1373348414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_153
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1652
+        width: 521
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bae9715eb7a54cb5aba11356e421c
+      internalID: 503892171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_154
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1707
+        width: 318
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01918923f3fcb7469e482dc3b908768
+      internalID: 900298481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_155
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 1707
+        width: 316
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc294fd209e15429b02857f31dd57c
+      internalID: 1344873896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_156
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 1707
+        width: 318
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815831e0b316f24b89e7af7298af645
+      internalID: 728865528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1425
+        width: 518
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511964ea0269b33499006adf662f6719
+      internalID: -438665524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_158
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1425
+        width: 518
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a94e7419873840943f5ac39451c65
+      internalID: 1088905657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_159
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1453
+        width: 518
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0481dd3cd2a948853228a653d01d4
+      internalID: -1544570902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_160
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1453
+        width: 518
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248a492574b5a940979a614fd437b88
+      internalID: 118846773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_161
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1427
+        width: 1040
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794ce6dead3694746b0a852d582c832f
+      internalID: 1827704142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1235
+        width: 406
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e5325392311b04e90ca28eb235194e
+      internalID: -814242543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1235
+        width: 408
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd310c2c648564dbdd18dbb83c0e22
+      internalID: 861710999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_164
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1235
+        width: 407
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47245960c0942143b801bd0a10ea556
+      internalID: 1899354255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_165
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1235
+        width: 408
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e0a7e43fbb144e9a1b2df9e4a0440
+      internalID: 172359808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_166
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54269db59a06a4ba5d51c693b2818a
+      internalID: -1986023930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_167
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 663
+        width: 364
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f78971e3cc7d94f820bbf55371bb22
+      internalID: -892669871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_168
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b5b8c0b0995c459cc39bb9debfa73
+      internalID: -765629864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_169
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 663
+        width: 364
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab8a7c5df043745bdec9353cdbf449
+      internalID: -1562208731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_170
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa32f6de2fcce42ab31effc52d55fb
+      internalID: -58020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_171
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 663
+        width: 371
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db95d67df69e446b8b2c6c43027530
+      internalID: -1469701860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_172
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477e61db2199efc4eb23e7e9af13e456
+      internalID: -1005403520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_173
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15203224b445f084abc2b0b9508bbec6
+      internalID: -1671475042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_174
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706afbca2fcef404c860d53bd62884ad
+      internalID: -2029636220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_175
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 663
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd23bc345064b4eb96d8c74890b87e
+      internalID: 52827372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_176
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 517
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf5e8ca8f325694e827be331c0dbf84
+      internalID: 1267438522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_177
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 517
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e59ef839faaf342994c7cb291e5667
+      internalID: 128001484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_178
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 517
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d4a3ce8cad8246a5fb107d8dcfb7e
+      internalID: -2045288061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 517
+        width: 213
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178db2f08c6fcf44c9c24d0f5124168e
+      internalID: -1214346560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_180
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 515
+        width: 188
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66cc0aa398c7547850a6b6e183de17
+      internalID: 210876562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_181
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 517
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828bdd68911227429ac6ce860f7e8ea
+      internalID: 761502667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_182
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 517
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca119052a5207c42bed2bd5dd20edab
+      internalID: -1649251317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_183
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 517
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e6cb1c6081e6478d9427102ab9a91
+      internalID: 1659949141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_184
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 113
+        width: 364
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3e8b34125a684995c992b3a10f67a
+      internalID: 1042261906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_185
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 111
+        width: 364
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41752abf324428a4088a41f2b41c447e
+      internalID: -1791091901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_186
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 113
+        width: 366
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd82c30d22fbd47a9872fdaaad8f14
+      internalID: 1878080456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_187
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 113
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb08a747b99ea94987216f877c3ecc5
+      internalID: -1389004547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_188
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 387
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff05bd7617b1e46a16b6ea52668f68
+      internalID: 1907321087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_189
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 387
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628a1b15281e524792c1b18d8f595b6
+      internalID: 1211458183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_190
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 387
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373807ef2f4fb442ad04ea0c9058de4
+      internalID: -784645810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_191
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 388
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e6df47ae724d4c9f49604c020e50f
+      internalID: -771581255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_192
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 387
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7bc432cdfe5d47abadd28758c3240
+      internalID: -772779458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_193
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 387
+        width: 185
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57395a7b3e5c734fb095c923b54fca8
+      internalID: 1152203676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_194
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 384
+        width: 163
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b9fb5c7db25c4aa0b0bbf34a55c0b
+      internalID: 1381227853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_195
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 387
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7422260d4be9a42aa09f094481b717
+      internalID: 338454058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_196
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 387
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3cc6042104274bad5635ec1e9701f
+      internalID: -1772893514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_197
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 387
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6412a3a6732643883431e128492e2
+      internalID: 1630757510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_198
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 351
+        width: 154
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd336f69d34f1e40b030e1a1140ec66
+      internalID: 404904973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_199
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 351
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31895aa5be6a5f4ab83e2ff9c261af3
+      internalID: -1550157575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_200
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 351
+        width: 182
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267ca4ee07a6a343908b6e8fab31434
+      internalID: -1372434128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_201
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 220
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92461edde8544347b20dfe5d161cb72
+      internalID: -1105207140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_202
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1de3c6cfbf5874ead9e154404a85a4
+      internalID: 961718822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_203
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 179
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1827f600727c6b4eb1327e9431696d6
+      internalID: 508145717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_204
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 219
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6292463b34f3f64aaa7ea6bdecc123f
+      internalID: -236362964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_205
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 219
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea94c8a0941424d856ad86878b9f4f
+      internalID: 1862285647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_206
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 219
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dddc72f801fea4eb6cd009591991d7
+      internalID: -546364621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_207
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 219
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5f95c020e3a894e936be8362b38172
+      internalID: -169326095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_208
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 219
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028374a5aa107a48ad85260bb82e079
+      internalID: 1085986910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_209
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 220
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715ab69cf6aa424281a2626d0025aff
+      internalID: 1636319111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_210
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 131
+        width: 168
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7eb9d7b0f8b440a15816a0d25f914
+      internalID: 867171836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_211
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 131
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e755104188cbc3e47911d2cd388970d9
+      internalID: 499599564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_212
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 79
+        width: 128
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15466a6788cc2394aa0cf9eda0eb3260
+      internalID: 1483312738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_213
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 131
+        width: 58
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6775e0fa01bee034d80e463cc43acd05
+      internalID: 1126903541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_214
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 43
+        width: 232
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104683d5761f89d40a3cfae2d42d24d5
+      internalID: 1320082883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_215
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 19
+        width: 164
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54fbd95b7a9b947b0d1b60f65371e6
+      internalID: -921725881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_216
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 45
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712e143f747b2340ac898087b46cb82
+      internalID: 1075517630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_217
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 45
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68031aeec0602b43bc0a639480b7edc
+      internalID: -1260464256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_218
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 45
+        width: 248
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be052c209777048afb59355197c8be
+      internalID: -270268865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_219
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 45
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cec37239e857a4991ee25d4d3914b5
+      internalID: -2136267650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredorakaUI-184_220
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 45
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6797a63a73c44bb1aa2dbef467a38
+      internalID: -2127620029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 721e462b7b70836449d7ea5fc30d119e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FredorakaUI-184_180: 210876562
+      FredorakaUI-184_58: 518926726
+      FredorakaUI-184_202: 961718822
+      FredorakaUI-184_10: 584010118
+      FredorakaUI-184_219: -2136267650
+      FredorakaUI-184_18: 618496099
+      FredorakaUI-184_155: 1344873896
+      FredorakaUI-184_62: -1565791847
+      FredorakaUI-184_190: -784645810
+      FredorakaUI-184_201: -1105207140
+      FredorakaUI-184_97: -2015145610
+      FredorakaUI-184_3: 235375005
+      FredorakaUI-184_127: -1470126266
+      FredorakaUI-184_83: 1417542932
+      FredorakaUI-184_211: 499599564
+      FredorakaUI-184_30: 1179968886
+      FredorakaUI-184_187: -1389004547
+      FredorakaUI-184_193: 1152203676
+      FredorakaUI-184_106: 1925549311
+      FredorakaUI-184_139: -162648671
+      FredorakaUI-184_170: -58020721
+      FredorakaUI-184_41: 1788652563
+      FredorakaUI-184_160: 118846773
+      FredorakaUI-184_1: 839306809
+      FredorakaUI-184_26: 80252360
+      FredorakaUI-184_165: 172359808
+      FredorakaUI-184_53: -1848558544
+      FredorakaUI-184_121: -1092564689
+      FredorakaUI-184_159: -1544570902
+      FredorakaUI-184_23: 1027884322
+      FredorakaUI-184_217: -1260464256
+      FredorakaUI-184_16: 434706208
+      FredorakaUI-184_90: -180419175
+      FredorakaUI-184_154: 900298481
+      FredorakaUI-184_12: -44848501
+      FredorakaUI-184_44: 1911595369
+      FredorakaUI-184_142: -1500665481
+      FredorakaUI-184_149: -1450448096
+      FredorakaUI-184_7: 30964922
+      FredorakaUI-184_96: -1183802540
+      FredorakaUI-184_150: 78143926
+      FredorakaUI-184_15: -676598820
+      FredorakaUI-184_80: -1936920264
+      FredorakaUI-184_11: -1694315366
+      FredorakaUI-184_81: -523909659
+      FredorakaUI-184_191: -771581255
+      FredorakaUI-184_198: 404904973
+      FredorakaUI-184_189: 1211458183
+      FredorakaUI-184_115: 1586817551
+      FredorakaUI-184_2: -839818028
+      FredorakaUI-184_94: -1173010683
+      FredorakaUI-184_87: -1719469297
+      FredorakaUI-184_164: 1899354255
+      FredorakaUI-184_52: -1561209067
+      FredorakaUI-184_66: 78664012
+      FredorakaUI-184_64: -361839543
+      FredorakaUI-184_42: 1276081943
+      FredorakaUI-184_48: -645632072
+      FredorakaUI-184_175: 52827372
+      FredorakaUI-184_91: -2110695521
+      FredorakaUI-184_6: 989499872
+      FredorakaUI-184_157: -438665524
+      FredorakaUI-184_156: 728865528
+      FredorakaUI-184_8: -672124776
+      FredorakaUI-184_63: 1086844257
+      FredorakaUI-184_67: -1737650448
+      FredorakaUI-184_103: 2034112469
+      FredorakaUI-184_176: 1267438522
+      FredorakaUI-184_147: -1520190219
+      FredorakaUI-184_77: 1870289944
+      FredorakaUI-184_132: -1297252331
+      FredorakaUI-184_143: -232209346
+      FredorakaUI-184_168: -765629864
+      FredorakaUI-184_196: -1772893514
+      FredorakaUI-184_114: -2127890726
+      FredorakaUI-184_120: 1886061632
+      FredorakaUI-184_50: 325419899
+      FredorakaUI-184_162: -814242543
+      FredorakaUI-184_216: 1075517630
+      FredorakaUI-184_93: 602413686
+      FredorakaUI-184_40: -854440429
+      FredorakaUI-184_36: 365418175
+      FredorakaUI-184_184: 1042261906
+      FredorakaUI-184_17: 1139866634
+      FredorakaUI-184_218: -270268865
+      FredorakaUI-184_73: 156065423
+      FredorakaUI-184_181: 761502667
+      FredorakaUI-184_101: 297261043
+      FredorakaUI-184_169: -1562208731
+      FredorakaUI-184_68: 1834992582
+      FredorakaUI-184_13: 701717356
+      FredorakaUI-184_111: 1133127790
+      FredorakaUI-184_161: 1827704142
+      FredorakaUI-184_206: -546364621
+      FredorakaUI-184_20: -1726216928
+      FredorakaUI-184_24: -525077635
+      FredorakaUI-184_110: 838576663
+      FredorakaUI-184_92: 1460239867
+      FredorakaUI-184_129: -157053468
+      FredorakaUI-184_59: -404943099
+      FredorakaUI-184_166: -1986023930
+      FredorakaUI-184_145: 2109822483
+      FredorakaUI-184_43: 63930181
+      FredorakaUI-184_197: 1630757510
+      FredorakaUI-184_86: -24540455
+      FredorakaUI-184_130: -627084712
+      FredorakaUI-184_199: -1550157575
+      FredorakaUI-184_167: -892669871
+      FredorakaUI-184_200: -1372434128
+      FredorakaUI-184_71: -609822993
+      FredorakaUI-184_118: 1295157062
+      FredorakaUI-184_102: -1349463545
+      FredorakaUI-184_144: -1594794890
+      FredorakaUI-184_28: -632700759
+      FredorakaUI-184_46: 140115228
+      FredorakaUI-184_210: 867171836
+      FredorakaUI-184_79: -1918960927
+      FredorakaUI-184_57: 478662630
+      FredorakaUI-184_99: 1385055837
+      FredorakaUI-184_49: -1907822586
+      FredorakaUI-184_134: 2083882200
+      FredorakaUI-184_185: -1791091901
+      FredorakaUI-184_104: 673691406
+      FredorakaUI-184_172: -1005403520
+      FredorakaUI-184_171: -1469701860
+      FredorakaUI-184_109: -1141536687
+      FredorakaUI-184_133: -1946497084
+      FredorakaUI-184_178: -2045288061
+      FredorakaUI-184_182: -1649251317
+      FredorakaUI-184_163: 861710999
+      FredorakaUI-184_123: 1071720479
+      FredorakaUI-184_31: 57576325
+      FredorakaUI-184_195: 338454058
+      FredorakaUI-184_98: 787890209
+      FredorakaUI-184_65: -1222044313
+      FredorakaUI-184_55: 2121920283
+      FredorakaUI-184_214: 1320082883
+      FredorakaUI-184_88: -1750254745
+      FredorakaUI-184_208: 1085986910
+      FredorakaUI-184_119: -1978081092
+      FredorakaUI-184_125: -821894359
+      FredorakaUI-184_107: 235398587
+      FredorakaUI-184_179: -1214346560
+      FredorakaUI-184_174: -2029636220
+      FredorakaUI-184_177: 128001484
+      FredorakaUI-184_25: -110226768
+      FredorakaUI-184_126: 437439376
+      FredorakaUI-184_54: 2803954
+      FredorakaUI-184_153: 503892171
+      FredorakaUI-184_205: 1862285647
+      FredorakaUI-184_45: -1287255485
+      FredorakaUI-184_89: 152551904
+      FredorakaUI-184_37: 1341238669
+      FredorakaUI-184_14: -1367322078
+      FredorakaUI-184_29: 569377457
+      FredorakaUI-184_215: -921725881
+      FredorakaUI-184_186: 1878080456
+      FredorakaUI-184_72: -1445343913
+      FredorakaUI-184_4: -457682523
+      FredorakaUI-184_213: 1126903541
+      FredorakaUI-184_152: 1373348414
+      FredorakaUI-184_148: -1178060226
+      FredorakaUI-184_131: 107812181
+      FredorakaUI-184_27: 1244610099
+      FredorakaUI-184_70: 1107364851
+      FredorakaUI-184_35: -1909763183
+      FredorakaUI-184_47: -1644126735
+      FredorakaUI-184_5: 399291681
+      FredorakaUI-184_21: 1503552940
+      FredorakaUI-184_82: 81464059
+      FredorakaUI-184_220: -2127620029
+      FredorakaUI-184_122: 1963833147
+      FredorakaUI-184_158: 1088905657
+      FredorakaUI-184_0: -1645020522
+      FredorakaUI-184_34: 1698409837
+      FredorakaUI-184_56: -796635523
+      FredorakaUI-184_105: -1335524973
+      FredorakaUI-184_209: 1636319111
+      FredorakaUI-184_212: 1483312738
+      FredorakaUI-184_61: -498211739
+      FredorakaUI-184_140: 1740280025
+      FredorakaUI-184_19: -7512783
+      FredorakaUI-184_183: 1659949141
+      FredorakaUI-184_75: -1745371342
+      FredorakaUI-184_74: -55825000
+      FredorakaUI-184_33: -1936272457
+      FredorakaUI-184_108: 1844302544
+      FredorakaUI-184_85: -1696878711
+      FredorakaUI-184_135: 818207153
+      FredorakaUI-184_192: -772779458
+      FredorakaUI-184_188: 1907321087
+      FredorakaUI-184_203: 508145717
+      FredorakaUI-184_207: -169326095
+      FredorakaUI-184_137: -380850792
+      FredorakaUI-184_38: -1514746055
+      FredorakaUI-184_112: -1430525272
+      FredorakaUI-184_113: -336904176
+      FredorakaUI-184_124: -1209106700
+      FredorakaUI-184_173: -1671475042
+      FredorakaUI-184_22: 1475761682
+      FredorakaUI-184_69: 1941478923
+      FredorakaUI-184_194: 1381227853
+      FredorakaUI-184_117: 1842391706
+      FredorakaUI-184_146: 1909995951
+      FredorakaUI-184_60: 595792348
+      FredorakaUI-184_204: -236362964
+      FredorakaUI-184_141: -25042725
+      FredorakaUI-184_84: 276856930
+      FredorakaUI-184_151: -517056592
+      FredorakaUI-184_138: 1616090022
+      FredorakaUI-184_32: -849515073
+      FredorakaUI-184_51: 369276068
+      FredorakaUI-184_116: -1534514661
+      FredorakaUI-184_9: -1449733414
+      FredorakaUI-184_78: 1989393662
+      FredorakaUI-184_136: 1486864184
+      FredorakaUI-184_100: 43058224
+      FredorakaUI-184_39: -1485517122
+      FredorakaUI-184_128: -111296409
+      FredorakaUI-184_95: -347571359
+      FredorakaUI-184_76: 1444056952
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
